@@ -1,9 +1,9 @@
 <a name="top"></a>
 <div align="center">
 
-# iOS Weather App
+# 🌤️🌧️ iOS Weather App 🌧️🌤️
 
-**Headline with emojis**
+Weather updates at your fingertips!
 
 ## Description
 
